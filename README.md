@@ -1,2 +1,2 @@
 # Multi_sum
-This a project about multisum using multi thread and multi process.
+This is a project about multisum using multi thread and multi process.
